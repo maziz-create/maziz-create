@@ -7,6 +7,10 @@
 <img height="50" src="img/linkedin.png">
 </a>
 
+ <a href="mailto:mehmetazizalgullu@gmail.com" target="_blank" rel="nofollow"><img height="50" alt="gmail" src="img/gmail.png" /></a>
+</a>
+
+
 Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
 
 - 🔭 I’m currently working on Patika.dev [Web FrontEnd Path](https://app.patika.dev/maziz-create)
