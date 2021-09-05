@@ -14,8 +14,8 @@
 Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
 
 - 🔭 I’m currently working on Patika.dev [Web FrontEnd Path](https://app.patika.dev/maziz-create)
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on [ReCapProject-Frontend](https://github.com/maziz-create/ReCapProject-Frontend)
+- 🌱 I’m currently learning React
+<!-- - 👯 I’m looking to collaborate on [ReCapProject-Frontend](https://github.com/maziz-create/ReCapProject-Frontend) -->
 
 Languages and Tools:
 
