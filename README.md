@@ -42,4 +42,8 @@ Languages and Tools:
 <a href="https://github.com/maziz-create/ReCapProject-Backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=ReCapProject-Backend&theme=tokyonight" />
 </a>
+<br> <br>
+<a href="https://github.com/maziz-create/doping-hafiza-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=doping-hafiza-clone&theme=tokyonight" />
+</a>
 </div>
