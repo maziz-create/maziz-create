@@ -13,9 +13,8 @@
 
 Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
 
-- 🔭 I’m currently working on [Doping Hafıza Clone](https://github.com/maziz-create/doping-hafiza-clone)
-- 🌱 I’m currently learning NodeJS RestAPI with Restify
-<!-- - 👯 I’m looking to collaborate on [ReCapProject-Frontend](https://github.com/maziz-create/ReCapProject-Frontend) -->
+- 🔭 I’m currently working on [Udemy Clone](https://github.com/maziz-create/udemy-clone)
+<!-- - 🌱 I’m currently learning NodeJS RestAPI with Restify -->
 
 Languages and Tools:
 
