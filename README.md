@@ -13,8 +13,8 @@
 
 Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
 
-- 🔭 I’m currently working on [Udemy Clone](https://github.com/maziz-create/udemy-clone)
-- 🌱 I’m currently learning Webpack and Babel.
+- 🔭 I’m currently working on [Javascript Full Course](https://github.com/maziz-create/javascript-full-course)
+- 🌱 I’m currently learning nodejs.
 
 Languages and Tools:
 
