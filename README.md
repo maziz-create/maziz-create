@@ -30,7 +30,7 @@ Languages and Tools:
 
 <br>
 
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=maziz-create&show_icons=true&theme=tokyonight)
+![maziz-create's github stats](https://github-readme-stats.vercel.app/api?username=maziz-create&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maziz-create&layout=compact&theme=tokyonight)](https://github.com/maziz-create)
 
@@ -42,7 +42,11 @@ Languages and Tools:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=ReCapProject-Backend&theme=tokyonight" />
 </a>
 <br> <br>
-<a href="https://github.com/maziz-create/doping-hafiza-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=doping-hafiza-clone&theme=tokyonight" />
+<a href="https://github.com/maziz-create/picture-sharing-between-clients">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=picture-sharing-between-clients&theme=tokyonight" />
+</a>
+<br> <br>
+<a href="https://github.com/maziz-create/eCommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=eCommerce&theme=tokyonight" />
 </a>
 </div>
