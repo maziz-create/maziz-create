@@ -13,7 +13,7 @@
 
 Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
 
-- 🔭 I’m currently working on [Javascript Full Course](https://github.com/maziz-create/javascript-full-course)
+- 🔭 I’m currently working on [Elçi Teknoloji](https://www.linkedin.com/company/elchiteknoloji/mycompany/) as FrontEnd Developer
 - 🌱 I’m currently learning nodejs.
 
 Languages and Tools:
@@ -21,10 +21,8 @@ Languages and Tools:
 <img height="38" src="img/html5.png">
 <img height="38" src="img/css3.png">
 <img height="30" src="img/javascript.png">
-<img height="35" src="img/angular.svg">
-<img height="30" src="img/ngrx.svg">
-<img height="25" src="img/ngxs.png">
 <img height="25" src="img/react.png">
+<img height="35" src="img/angular.svg">
 <img height="30" src="img/dotnetcore.svg">
 <img height="30" src="img/csharp.png">
 
