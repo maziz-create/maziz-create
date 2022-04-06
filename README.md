@@ -13,9 +13,6 @@
 
 Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
 
-- 🔭 I’m currently working on [Elçi Teknoloji](https://www.linkedin.com/company/elchiteknoloji/mycompany/) as FrontEnd Developer (ReactJS) and freelancer
-- 🌱 I’m currently learning React Native.
-
 Languages and Tools:
 
 <img height="38" src="img/html5.png">
