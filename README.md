@@ -11,7 +11,8 @@
 </a>
 
 
-Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught FrontEnd developer from Turkey.
+Hi, I'm Mehmet Aziz Algüllü, a passionate self-taught Software developer from Turkey.
+https://gitlab.com/mazizalgullu
 
 Languages and Tools:
 
