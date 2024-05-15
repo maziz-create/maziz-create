@@ -30,19 +30,4 @@ Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maziz-create&layout=compact&theme=tokyonight)](https://github.com/maziz-create)
 
-<a href="https://github.com/maziz-create/ReCapProject-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=ReCapProject-Frontend&theme=tokyonight" />
-</a>
-<br> <br>
-<a href="https://github.com/maziz-create/ReCapProject-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=ReCapProject-Backend&theme=tokyonight" />
-</a>
-<br> <br>
-<a href="https://github.com/maziz-create/picture-sharing-between-clients">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=picture-sharing-between-clients&theme=tokyonight" />
-</a>
-<br> <br>
-<a href="https://github.com/maziz-create/eCommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maziz-create&repo=eCommerce&theme=tokyonight" />
-</a>
 </div>
